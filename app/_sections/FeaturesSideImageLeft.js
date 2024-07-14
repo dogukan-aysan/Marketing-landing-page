@@ -3,7 +3,7 @@ function FeaturesSideImageLeft() {
     <section className="max-w-[1280px] mx-auto px-3 py-12 md:px-4 md:py-16 min-[1440px]:px-8 min-[1440px]:py-24 flex flex-col gap-12 md:gap-16">
       <header className="flex flex-col items-center text-center min-[1440px]:px-40">
         <h3 className="text-base font-semibold text-indigo-700">Best-in-class support</h3>
-        <h1 className="text-3xl font-semibold text-neutral-900 md:text-5xl mt-3 mb-5 min-[1440px]:px-10">
+        <h1 className="text-3xl font-semibold text-neutral-900 md:text-5xl mt-3 mb-5 min-[1440px]:w-[623px] min-[1440px]:px-0">
           Convenience and licensing that empowers
         </h1>
         <p className="text-lg text-neutral-600 md:text-xl md:w-[486px]">
