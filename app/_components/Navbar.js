@@ -8,7 +8,7 @@ function Navbar() {
   const [slideOpen, setSlideOpen] = useState(false);
   return (
     <>
-      <header className="z-40 sticky top-4 max-w-[1280px] mx-auto flex items-center gap-24 py-4 md:px-4 min-[1440px]:px-8">
+      <header className="z-40 sticky top-4 max-w-[1280px] mx-auto flex items-center gap-24 py-3 md:px-4 min-[1440px]:px-8">
         <Logo />
         <ul className="hidden min-[1440px]:flex gap-8">
           <li
