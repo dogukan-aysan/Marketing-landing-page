@@ -1,7 +1,7 @@
 function LogoMarquee() {
   return (
     <section className="flex flex-col gap-8 py-12 md:py-16 min-[1440px]:py-24">
-      <p className="text-base font-medium text-neutral-600 text-center">Used by the teams that you love</p>
+      <p className="text-base font-medium text-neutral-600 text-center">Used by teams that you love</p>
       <div className="w-full motion-safe:overflow-hidden py-0.5 md:py-0">
         <ul className="flex gap-8 w-fit motion-safe:animate-scroll motion-reduce:flex-wrap motion-reduce:justify-center">
           <li>
